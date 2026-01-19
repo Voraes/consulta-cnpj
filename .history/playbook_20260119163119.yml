@@ -1,0 +1,20 @@
+- name: Consulta CNPJ em lote
+  hosts: localhost
+  gather_facts: no
+
+  vars:
+    cnpjs:
+      - "07.526.557/0116-59"
+      - "11111111111111"
+
+  tasks:
+    - name: Executar consulta
+      shell: |
+        echo '{{ cnpjs | to_json }}' | python3 main.py
+      args:
+        chdir: "{{ playbook_dir }}"
+      register: resultado
+
+    - name: Mostrar resultado
+      debug:
+        msg: "{{ resultado.stdout | from_json }}"

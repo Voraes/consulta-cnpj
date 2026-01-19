@@ -1,0 +1,74 @@
+{
+  "07526557011659": {
+    "updated_at": "2026-01-19T19:21:28.088372",
+    "resultado": {
+      "cnpj": "07526557011659",
+      "status": "OK",
+      "simples_nacional": false,
+      "mei": false
+    }
+  },
+  "33500691000141": {
+    "updated_at": "2026-01-19T19:44:25.932609",
+    "resultado": {
+      "cnpj": "33500691000141",
+      "status": "OK",
+      "simples_nacional": false,
+      "mei": false
+    }
+  },
+  "33500699000108": {
+    "updated_at": "2026-01-19T19:44:44.362016",
+    "resultado": {
+      "cnpj": "33500699000108",
+      "status": "OK",
+      "simples_nacional": false,
+      "mei": false
+    }
+  },
+  "33500675000159": {
+    "updated_at": "2026-01-19T19:48:48.487429",
+    "resultado": {
+      "cnpj": "33500675000159",
+      "status": "OK",
+      "simples_nacional": true,
+      "mei": true
+    }
+  },
+  "33500704000182": {
+    "updated_at": "2026-01-19T19:49:00.977747",
+    "resultado": {
+      "cnpj": "33500704000182",
+      "status": "OK",
+      "simples_nacional": false,
+      "mei": false
+    }
+  },
+  "33500708000160": {
+    "updated_at": "2026-01-19T19:49:57.401246",
+    "resultado": {
+      "cnpj": "33500708000160",
+      "status": "OK",
+      "simples_nacional": false,
+      "mei": false
+    }
+  },
+  "33500785000110": {
+    "updated_at": "2026-01-19T19:50:09.893015",
+    "resultado": {
+      "cnpj": "33500785000110",
+      "status": "OK",
+      "simples_nacional": false,
+      "mei": false
+    }
+  },
+  "33500800000120": {
+    "updated_at": "2026-01-19T19:50:22.387230",
+    "resultado": {
+      "cnpj": "33500800000120",
+      "status": "OK",
+      "simples_nacional": true,
+      "mei": true
+    }
+  }
+}

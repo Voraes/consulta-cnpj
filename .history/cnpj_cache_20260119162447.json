@@ -1,0 +1,20 @@
+{
+  "07526557011659": {
+    "updated_at": "2026-01-19T19:21:28.088372",
+    "resultado": {
+      "cnpj": "07526557011659",
+      "status": "OK",
+      "simples_nacional": false,
+      "mei": false
+    }
+  },
+  "63531618000106": {
+    "updated_at": "2026-01-19T19:22:25.877630",
+    "resultado": {
+      "cnpj": "63531618000106",
+      "status": "OK",
+      "simples_nacional": true,
+      "mei": false
+    }
+  }
+}
