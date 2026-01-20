@@ -124,5 +124,23 @@
       "simples_nacional": false,
       "mei": false
     }
+  },
+  "63531618000106": {
+    "updated_at": "2026-01-20T12:51:06.373957",
+    "resultado": {
+      "cnpj": "63531618000106",
+      "status": "OK",
+      "simples_nacional": true,
+      "mei": false
+    }
+  },
+  "07541738000105": {
+    "updated_at": "2026-01-20T12:54:24.616340",
+    "resultado": {
+      "cnpj": "07541738000105",
+      "status": "OK",
+      "simples_nacional": false,
+      "mei": false
+    }
   }
 }

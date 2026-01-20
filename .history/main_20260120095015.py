@@ -137,7 +137,7 @@ def processar_lote(cnpjs):
     return resultados
 
 
-# ________Leitura Arquivo________
+# ________eee________
 
 def ler_cnpjs_arquivo(caminho):
     if not os.path.exists(caminho):
@@ -162,15 +162,14 @@ def ler_cnpjs_arquivo(caminho):
 # ________Main________
 
 if __name__ == "__main__":
-    
     """
     Modos de uso:
 
     1) Via stdin (JSON):
-       echo '["07.526.557/0116-59", "12345678000199"]' | python3 main.py
+       echo '["07.526.557/0116-59", "12345678000199"]' | python3 consulta_cnpj_lote.py
 
     2) Via arquivo TXT:
-       python3 main.py --file cnpjs.txt
+       python3 consulta_cnpj_lote.py --file cnpjs.txt
     """
 
     parser = argparse.ArgumentParser(

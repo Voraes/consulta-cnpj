@@ -137,7 +137,7 @@ def processar_lote(cnpjs):
     return resultados
 
 
-# ________Leitura Arquivo________
+# ________eee________
 
 def ler_cnpjs_arquivo(caminho):
     if not os.path.exists(caminho):
